@@ -1,3 +1,10 @@
+#https://github.com/PietYsabie/Python-Stock-Options-Loader.git
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb 2 2021
+@author: Piet Ysabie
+"""
 #_____________________________________________________________________________________
 # Load table option_table1 with stock options using finance.yahoo.com as a data source
 #-------------------------------------------------------------------------------------
