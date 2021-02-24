@@ -4,6 +4,6 @@ The code requires an SQL table called option_table1 to be created. Option data i
 The option prices are also plotted for each expiration date and option type. Example of a plot:
 ![image](https://user-images.githubusercontent.com/78446548/106661868-04871100-65a2-11eb-83fc-ecf50ae69e50.png)
 
-The table is loaded with the option details:
+The table is loaded with the option pricing and quotation details:
 
 ![image](https://user-images.githubusercontent.com/78446548/106670773-c394f980-65ad-11eb-870d-531f74ef1ad3.png)
