@@ -6,7 +6,7 @@ Note: this is a part of a complete investment decision process where
 
 STEP 1 - stocks are being selected with their probabilities for a share price increase
 
-STEP 2 - next, the options of this stock selection are downloaded; this 'Python Stock Options Loader' code snippet
+STEP 2 - next, the options related to this stock selection are downloaded; this 'Python Stock Options Loader' code snippet
 
 STEP 3 - apply predicted end prices at strike date for each option
 
